@@ -1,0 +1,115 @@
+body {
+
+}
+
+h1 {
+	text-align: center;
+	margin: 40px 0;
+}
+h1 span {
+	color: #666;
+}
+.main-img {
+	background: #eee;
+}
+
+.stats-box {
+	background-color: #a4a4a4;
+	color: #666;
+	margin: 20px 0;
+	height: 240px;
+	border-radius: 10px;
+	padding: 20px;
+}
+.stats-box h3{
+	font-weight: 400;
+	font-size: 21px;
+}
+
+.blue-box {
+	background-color: #2EA8D8;
+	border-radius: 10px;
+	padding: 20px 12px;
+	margin: 40px 0;
+}
+
+.blue-box span {
+	display: block;
+	margin-bottom: 4px;
+}
+.blue-box span.title {
+	color: #FFF;
+}
+section h2 {
+	font-size: 21px;
+	margin: 16px 0;
+	font-weight: 400;
+}
+.types div,
+.weaknesses div {
+	padding-right: 0;
+}
+.types p,
+.weaknesses p {
+	text-align: center;
+	padding: 4px 8px;
+	border-radius: 4px;
+	color: #FFF;
+}
+.grass {
+	background-color: #9BCB50;
+}
+.poison {
+	background-color: #B97FC8;
+}
+.fire {
+	background-color: #FE7D23;
+}
+.flying {
+	background-color: #3EC6EF;
+}
+.ice {
+	background-color: #51C4E7;
+}
+.psychic {
+	background-color: #F366B9;
+}
+
+.evolution-box {
+	background-color:#777;
+	margin: 40px 0;
+	padding: 20px;
+	border-radius: 10px;
+}
+.evolution-box h3 {
+	color: #FFF;
+	font-size: 21px;
+	font-weight: 400;
+}
+
+.poke-evolution img {
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+	border: 8px solid #FFF;
+	border-radius: 50%;
+	box-shadow: 0 2px 2px rgba(0,0,0,0.5);
+	padding: 10px;
+	box-sizing: border-box;
+}
+.poke-evolution .name {
+	text-align: center;
+	font-size: 21px;
+	color: #FFF;
+	margin: 20px 0;
+}
+.poke-evolution .name span {
+	color: #BBB;
+}
+.poke-evolution .types div,
+.poke-evolution .weaknesses div {
+	padding-right: 15px;
+}
+.poke-evolution .types .grass {
+	color: #000;
+}
